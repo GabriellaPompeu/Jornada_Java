@@ -24,7 +24,7 @@ Eu iniciei os meus estudos de Java em 30/03/2025 e utilizarei este repositório 
 - [Estruturas de Controle (Loops e Condicionais)](fundamentos/loops.md)
 - [Programação Orientada a Objetos (POO)](fundamentos/poo.md)
 ### 💻 Projetos Práticos
-- [Calculadora Simples](projetos/calculadora/calculadora1.java)
+- [Calculadora Simples](projetos/calculadora/Calculadora1.java)
 
 ## 🌟 Contribuições
 Se quiser contribuir ou sugerir melhorias, fique à vontade para abrir um **Pull Request** ou uma **Issue**.
