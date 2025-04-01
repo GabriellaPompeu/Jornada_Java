@@ -13,7 +13,7 @@ Eu iniciei os meus estudos de Java em 30/03/2025 e utilizarei este repositório 
 │   ├── poo.md
 │── 📂 projetos
 │   ├── calculadora
-│   │   ├── src
+│   │   ├── calculadora1.java
 │   │   ├── README.md
 │── 📂 desafios
 ```
@@ -24,7 +24,7 @@ Eu iniciei os meus estudos de Java em 30/03/2025 e utilizarei este repositório 
 - [Estruturas de Controle (Loops e Condicionais)](fundamentos/loops.md)
 - [Programação Orientada a Objetos (POO)](fundamentos/poo.md)
 ### 💻 Projetos Práticos
-- [Calculadora Simples](projetos/calculadora/README.md)
+- [Calculadora Simples](projetos/calculadora/calculadora1.java)
 
 ## 🌟 Contribuições
 Se quiser contribuir ou sugerir melhorias, fique à vontade para abrir um **Pull Request** ou uma **Issue**.

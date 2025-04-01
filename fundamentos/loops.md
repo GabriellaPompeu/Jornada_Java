@@ -76,3 +76,13 @@ switch (dia) {
         System.out.println("Número inválido!");
 }
 ```
+
+### `Operador ternário`
+Pode ser usado no lugar de um **if - else** muito curto.
+
+```java
+int idade = 20;
+String mensagem = (idade >= 18) ? "Maior de idade" : "Menor de idade";
+
+System.out.println(mensagem);
+```
