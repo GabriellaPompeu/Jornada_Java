@@ -86,3 +86,10 @@ String mensagem = (idade >= 18) ? "Maior de idade" : "Menor de idade";
 
 System.out.println(mensagem);
 ```
+
+## 📌 Estruturas de Repetição (loops)
+|  Tipo  |   Uso Comum   |
+|--------|---------------|
+|  for   |Quando sabemos exatamente quantas vezes repetir|
+| while  |Quando a repetição depende de uma condição|
+|do-while|Quando queremos garantir que o bloco execute pelo menos uma vez|
