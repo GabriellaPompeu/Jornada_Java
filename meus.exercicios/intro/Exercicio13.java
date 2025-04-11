@@ -17,7 +17,13 @@ public class Exercicio13 {
         System.out.print("Digite a segunda nota: ");
         notas[4] = scanner.nextDouble();
 
-        double media = (notas[0] + notas[1] + notas[2] + notas[3] + notas[4]) / 5;
+        double soma = 0;
+
+        for (int i = 0; i < notas.length; i++) {
+            soma += notas[i];
+        }
+        
+        double media = soma / notas.length;
 
         if (media < 7) {
             System.out.printf("O aluno obteve média %.2f e foi reprovado", media);
